@@ -8,9 +8,9 @@ Men base is a simple and flexible quick start base to create fullstack webapps u
 
 To run men-base, you need a recent version of Node, Express and MongoDB installed (obviously). If it's not the case, here are some useful links:
 
-*[node](https://nodejs.org)
-*[express](http://expressjs.com)
-*[mongo](https://docs.mongodb.com/manual/installation)
+* [node](https://nodejs.org)
+* [express](http://expressjs.com)
+* [mongo](https://docs.mongodb.com/manual/installation)
 
 ### Before running the project
 
@@ -71,7 +71,7 @@ Project
    ---> node_modules #Genrated by npm installs and 
    |    contains dependencies (do no edit manually)
    |
-   ---> public #contains public data and files that can be send to client
+   ---> public # Contains public data and files available client side
    |       |
    |       ---> images # Images obvisouly
    |       |
@@ -79,15 +79,15 @@ Project
    |       |
    |       ---> stylesheets # Css files
    |
-   ---> routes # Controllers managing routes and data to display on pages
+   ---> routes
    |       |
-   |       ---> index.js # Sample controler for index page
+   |       ---> router.js # Main router file
    |
    ---> views
    |
-   ---> app.js
+   ---> app.js # Main app file
    |
-   ---> package.json # Application description
+   ---> package.json # For npm 
 ```
 
 ## License
