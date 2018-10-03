@@ -18,7 +18,7 @@ module.exports = {
 
 	//Page render
 	render: function(res) {
-		sampleModel.findOne({"name": "test"}, function(err, data) {
+		sampleModel.findOne({"name": "Men Base"}, function(err, data) {
 			res.render("index", {title: data.name});
 		});
 	}
