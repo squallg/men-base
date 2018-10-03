@@ -1,12 +1,12 @@
-# Men base: a quick start base for MongoDB Express Node stack
+# M-E-N Base: a quick start base for MongoDB-Express-Node stack
 
-Men base is a simple and flexible quick start base to create fullstack webapps using Node, Express and MongoDB with MVC architecture. As far as it's still a "work in progress", this project will be updated quite often. When cloning this repo for a new project, don't forget to check for updates.
+M-E-N Base is a simple and flexible quick start base to create fullstack webapps using Node, Express and MongoDB with MVC architecture.
 
 ## Getting started
 
 ### Prerequisites
 
-To run men-base, you need a recent version of Node, Express and MongoDB installed (obviously). If it's not the case, here are some useful links:
+To run M-E-N Base, you need a recent version of Node, Express and MongoDB installed (obviously). If it's not the case, here are some useful links:
 
 * [node](https://nodejs.org)
 * [express](http://expressjs.com)
@@ -31,7 +31,7 @@ To run the project simply type:
 $ npm start
 ```
 
-Great, you're done. Go to "localhost:3000", a start page using a MEN stack with MVC architecture is waiting for you.
+Great, you're done. Go to "localhost:3000", a start page using a M-E-N stack with MVC architecture is waiting for you.
 
 ## Sample files
 
