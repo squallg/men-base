@@ -1,4 +1,4 @@
-# M-E-N Base: a quick start base for MongoDB-Express-Node stack
+# M-E-N Base: A quick start base for MongoDB-Express-Node stack
 
 M-E-N Base is a simple and flexible quick start base to create fullstack webapps using Node, Express and MongoDB with MVC architecture.
 

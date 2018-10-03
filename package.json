@@ -1,6 +1,6 @@
 {
   "name": "men-base",
-  "description": "Quick start base for MEN stack.",
+  "description": "Quick start base for M-E-N stack.",
   "version": "1.0.1",
   "scripts": {
     "start": "node ./bin/www"
