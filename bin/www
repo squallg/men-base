@@ -23,10 +23,9 @@ var server = http.createServer(app);
 
 
 /*********************** DATABASE *********************/
-/*        Uncomment to import database helper        **/
-/******************************************************/
 
-var dbHelper = require("../helpers/db");    
+//Uncomment to import database helper 
+//var dbHelper = require("../helpers/db");    
 
 
 //Add configurations and imports below

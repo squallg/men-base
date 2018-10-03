@@ -1,4 +1,4 @@
-# Men base: a quick start base for MonogoDB Express Node stack
+# Men base: a quick start base for MongoDB Express Node stack
 
 Men base is a simple and flexible quick start base to create fullstack webapps using Node, Express and MongoDB with MVC architecture. As far as it's still a "work in progress", this project will be updated quite often. When cloning this repo for a new project, don't forget to check for updates.
 
