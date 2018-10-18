@@ -6,15 +6,15 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "body-parser": "~1.15.2",
+    "body-parser": "^1.18.3",
     "cookie-parser": "~1.4.3",
-    "debug": "~2.2.0",
-    "ejs": "~2.5.2",
-    "express": "~4.14.0",
-    "mongodb": "^2.2.24",
-    "mongoose": "^4.8.7",
-    "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.0"
+    "debug": "^4.1.0",
+    "ejs": "^2.5.9",
+    "express": "^4.16.4",
+    "mongodb": "^2.2.36",
+    "mongoose": "^4.13.17",
+    "morgan": "^1.9.1",
+    "serve-favicon": "^2.5.0"
   },
   "repository": {
     "type": "git",
