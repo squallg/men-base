@@ -2,7 +2,7 @@
 
 /*
  * bin/www . This file is the starting point of the application. It requires
- * app.js for configuration and setup. Use this file for add custom 
+ * app.js for configuration and setup. Use this file to add custom 
  * configuration and imports.
  */
 

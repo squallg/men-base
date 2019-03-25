@@ -6,7 +6,7 @@
 /*
  * app.js file. This is configuration and setup file for node. NOT THE 
  * STARTING POINT of the application.
- * This app run using "npm start" command, which is set like this
+ * This app runs using "npm start" command, which is set like this
  * "scripts": {
  * 		"start": "node ./bin/www"
  *  }
